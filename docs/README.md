@@ -1,5 +1,5 @@
 ## Website Design and Images
-![Calendar](calendar.svg)
+![Calendar](Calendar.svg)
 ![Focus Session Tracker](Focus.svg)
 ![Home Page](front.png)
 
